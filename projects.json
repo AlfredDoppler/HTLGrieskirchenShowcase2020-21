@@ -75,12 +75,20 @@
 	  "author": "Jakob Jodlbauer",
 	  "year": "2020_WS",
 	  "status": 0
-  }
+  },
+
+  {
+      "title": "2D_Shooter",
+      "folder": "2D_Shooter",
+      "author": "Julian Berndl",
+      "year": "2020_WS",
+      "status": 0
+  },
 	{
-	  "title": "Star-Wars-2D-Shooter",
-	  "folder": "starwarsgame",
-	  "author": "Emil Eichsteininger",
-	  "year": "2020_WS",
-	  "status": 0
+      "title": "Star-Wars Shooter",
+      "folder": "starwars_shooter",
+      "author": "Emil Eichsteininger",
+      "year": "2020_WS",
+      "status": 0
   }
 ]
