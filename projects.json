@@ -84,9 +84,10 @@
       "year": "2020_WS",
       "status": 0
   },
-	{
-      "title": "Star-Wars Shooter",
-      "folder": "starwars_shooter",
+
+  {
+      "title": "StarWars-2DShooter",
+      "folder": "starwarsgame",
       "author": "Emil Eichsteininger",
       "year": "2020_WS",
       "status": 0
