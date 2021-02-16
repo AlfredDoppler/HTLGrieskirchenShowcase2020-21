@@ -35,10 +35,24 @@
 	  "status": 1
   },
   {
+	  "title": "ATOMS",
+	  "folder": "ATOMS",
+	  "author": "Emilio Miniberger",
+	  "year": "2020_WS",
+	  "status": 0
+  },
+{
+	  "title": "AlienDriftWorld",
+	  "folder": "AlienDriftWorld",
+	  "author": "Johannes Huemer",
+	  "year": "2020_WS",
+	  "status": 0
+  },
+{
 	  "title": "TheGamingFactory",
 	  "folder": "TheGamingFactoryV1.0",
 	  "author": "Markus Ortner",
 	  "year": "2020_WS",
-	  "status": 1
+	  "status": 0
   }
 ]
