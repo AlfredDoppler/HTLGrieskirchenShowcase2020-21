@@ -108,5 +108,12 @@
 
 
 
-  }
+  },
+  {
+    "title": "Adventure Minigame",
+    "folder": "Adventure_Minigame",
+    "author": "Fabian Buchenberger",
+    "year": "2021_SS",
+    "status": 1
+  },
 ]
