@@ -49,6 +49,13 @@
     "status": 0
   },
   {
+    "title": "flitzerSimulator",
+    "folder": "flitzerSimulator",
+    "author": "?",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
     "title": "Hotline Miami",
     "folder": "Hotline Miami",
     "author": "Moritz Maier",
@@ -59,6 +66,13 @@
     "title": "2D Fighter",
     "folder": "2D Fighter",
     "author": "Jakob Zach",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "Pool3D",
+    "folder": "Pool3D",
+    "author": "?",
     "year": "2020_WS",
     "status": 0
   },
@@ -89,7 +103,6 @@
     "author": "Jonas Heschl",
     "year": "2020_WS",
     "status": 1
-
   },
   {
     "title": "My2DFightingGame",
@@ -97,44 +110,68 @@
     "author": "Luka Pilic",
     "year": "2020_WS",
     "status": 0
-
   },
-	{
+  {
     "title": "TryAngle",
     "folder": "TryAngleee",
     "author": "David Weiß",
     "year": "2020_WS",
     "status": 0
-
-
-
+  },
+  {
+    "title": "TheGamingFactoryV1.0",
+    "folder": "TheGamingFactoryV1.0",
+    "author": "?",
+    "year": "2020_WS",
+    "status": 0
   },
   {
     "title": "uNetFPS_Tutorial",
     "folder": "uNetFPS_Tutorial",
     "author": "Lukas_Gumpinger",
-    "year": "2021_SS",
+    "year": "2020_SS",
+    "status": 0
+  },
+  {
+    "title": "UnknownGame",
+    "folder": "UnknownGame",
+    "author": "?",
+    "year": "2020_SS",
     "status": 0
   },
   {
     "title": "SkyHopper",
     "folder": "SkyHopper",
     "author": "Emil Eichsteininger",
-    "year": "2021_SS",
+    "year": "2020_SS",
+    "status": 0
+  },
+{
+    "title": "AimPractice",
+    "folder": "AimPracticeWebGL",
+    "author": "?",
+    "year": "2020_SS",
+    "status": 0
+  },
+  {
+    "title": "VrPrototype",
+    "folder": "VrPrototypeWebBuild",
+    "author": "?",
+    "year": "2020_SS",
     "status": 0
   },
   {  
-        "title": "3DParkour",
-        "folder": "3D_Parkour-WebGL",
-        "author": "Luka Pilic",
-        "year": "2021_SS",
-        "status": "0"
+    "title": "3DParkour",
+    "folder": "3D_Parkour-WebGL",
+    "author": "Luka Pilic",
+    "year": "2020_SS",
+    "status": "0"
    },
    {  
-        "title": "Doomsday",
-        "folder": "Doomsday",
-        "author": "Daniel Eizenberger",
-        "year": "2021_SS",
-        "status": "0"
+    "title": "Doomsday",
+    "folder": "Doomsday",
+    "author": "Daniel Eizenberger",
+    "year": "2020_SS",
+    "status": "0"
    }
 ]
