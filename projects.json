@@ -57,7 +57,7 @@
   },
   {
     "title": "Hotline Miami",
-    "folder": "Hotline Miami",
+    "folder": "HotlineMiami",
     "author": "Moritz Maier",
     "year": "2020_WS",
     "status": 0
@@ -129,14 +129,14 @@
     "title": "uNetFPS_Tutorial",
     "folder": "uNetFPS_Tutorial",
     "author": "Lukas_Gumpinger",
-    "year": "2020_SS",
+    "year": "2020_WS",
     "status": 0
   },
   {
     "title": "UnknownGame",
     "folder": "UnknownGame",
     "author": "?",
-    "year": "2020_SS",
+    "year": "2020_WS",
     "status": 0
   },
   {
@@ -146,7 +146,7 @@
     "year": "2020_SS",
     "status": 0
   },
-{
+  {
     "title": "AimPractice",
     "folder": "AimPracticeWebGL",
     "author": "?",
@@ -160,25 +160,25 @@
     "year": "2020_SS",
     "status": 0
   },
-  {  
+  {
     "title": "3DParkour",
     "folder": "3D_Parkour-WebGL",
     "author": "Luka Pilic",
     "year": "2020_SS",
     "status": "0"
-   },
-   {  
+  },
+  {
     "title": "Doomsday",
     "folder": "Doomsday",
     "author": "Daniel Eizenberger",
     "year": "2020_SS",
     "status": "0"
-   },
-   {  
+  },
+  {
     "title": "Smashitshow",
     "folder": "Smashitshow",
     "author": "Jan Führer",
     "year": "2020_SS",
     "status": "0"
-   }
+  }
 ]
