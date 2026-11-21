@@ -60,7 +60,7 @@
     "folder": "HotlineMiami",
     "author": "Moritz Maier",
     "year": "2020_WS",
-    "status": 0
+    "status": -1
   },
   {
     "title": "2D Fighter",
@@ -137,7 +137,7 @@
     "folder": "UnknownGame",
     "author": "?",
     "year": "2020_WS",
-    "status": 0
+    "status": -1
   },
   {
     "title": "SkyHopper",
